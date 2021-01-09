@@ -1,3 +1,5 @@
 print("hello world !")
 print(" I am taratep :D")
 print("trirattanatikun")
+print("my nickname is tiger")
+print("Student in Kasetsart")
